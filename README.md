@@ -45,4 +45,4 @@ The interactive menu provides the following operations:
 
 ---
 
-Academic project focused on data structures and record management.
+Personal project focused on data structures and record management.
